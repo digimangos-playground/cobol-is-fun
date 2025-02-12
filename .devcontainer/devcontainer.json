@@ -14,8 +14,8 @@
 		"vscode": {
 			"extensions": [
 				"GitHub.copilot",
-				"GitHub.copilot-chat",
-				"zerodind.familiar-java-themes"
+				"BroadcomMFD.cobol-language-support",
+				"formulahendry.code-runner"
 			]
 		}
 	}
